@@ -14,7 +14,7 @@ Olá, Comunidade DEVPIRA! 🤗 Preparem-se para o DEVPIRA Halloween CodeFest! Um
 
 3️⃣ Envie o link do repositório GitHub 🌐 para a organização DEVPIRA ou para o e-mail 📧 contato.devpira@gmail.com.
 
-- Categorias de Competição 🏆
+ Categorias de Competição 🏆
 
 - FrankenCode: O projeto com o código mais horripilante 🧟‍♂️.
 - Scary Dependencies: O projeto com mais dependências desnecessárias 😨.
