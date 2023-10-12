@@ -16,11 +16,11 @@ Olá, Comunidade DEVPIRA! 🤗 Preparem-se para o DEVPIRA Halloween CodeFest! Um
 
 - Categorias de Competição 🏆
 
-FrankenCode: O projeto com o código mais horripilante 🧟‍♂️.
-Scary Dependencies: O projeto com mais dependências desnecessárias 😨.
-Memory Leak Mansion: O projeto que consome mais recursos do dispositivo 👻.
-Jump Scare UI: A pior experiência de usuário e interface 🤡.
-The Undead Thread: O pior uso de multithreading 🧛‍♀️.
+- FrankenCode: O projeto com o código mais horripilante 🧟‍♂️.
+- Scary Dependencies: O projeto com mais dependências desnecessárias 😨.
+- Memory Leak Mansion: O projeto que consome mais recursos do dispositivo 👻.
+- Jump Scare UI: A pior experiência de usuário e interface 🤡.
+- The Undead Thread: O pior uso de multithreading 🧛‍♀️.
 
 ### Linguagens Usadas
 - HTML5
